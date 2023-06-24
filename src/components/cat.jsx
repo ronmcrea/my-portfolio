@@ -59,7 +59,6 @@ export class Cat extends Component {
 					<ul>
 					<li className="Edu">Bachelor's Degree in Computer Engineering, Karunya University, 2024 </li>
 					<li className="Edu">Relevant Domains: Web Development, Server Management, Networking </li>
-					<li className="Edu">Academic achievements: [Include any notable achievements or honors, such as Dean's List, scholarships, or research projects] </li>
 					</ul>
 				</p>;
 			}
